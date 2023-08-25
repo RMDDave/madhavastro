@@ -1,0 +1,223 @@
+.header{
+    /* border: 1px solid; */
+    height: 170px;
+    width: 100%;
+    background-color: whitesmoke;
+}
+.head1{
+    float: left;
+    /* border: 1px solid; */
+    height: 168px;
+    width: 40%;
+}
+.head1 img{
+    padding-top: 5px;
+    width: 40%;
+    height: 163px;
+    /* padding-left: 5px; */
+ }
+.head2{
+    /* border: 1px solid; */
+    float: left;
+    width: 58%;
+    height: 170px;
+}
+.header2{
+    background-color: #F9E795;
+    margin-top: 5px;
+    border: 1px solid;
+    height: 80px;
+    width: 100%;   
+}
+.header2 ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.header2 ul li{
+    /* border: 1px solid; */
+    float: left;
+    padding: 30px;
+    width: 15%;
+    font-weight: bold;
+}
+.special-drop{
+    height: 350px;
+    width: 500px;
+    margin-top: 35px;
+    position: absolute;
+    border-radius: 13px;
+    display: none;
+    /* border-color: blue; */
+    margin-right: 50px;
+}
+.special-drop1{
+      /* border: 1px solid; */
+      float: left;
+      height: auto;
+      width: 60%;
+}
+.special-drop1 ul{
+    list-style: none;
+    height: auto;
+    width: auto;
+}
+.special-drop1 ul li{
+    /* background-color: whitesmoke; */
+    width: 100%;
+    padding-top: 10px;
+    margin-top: 30px;
+}
+.header2 ul li:hover > .special-drop{
+    display: block;
+    background-color:#66b3ff;
+}
+.pooja-drop{
+    height: 250px;
+    width: 500px;
+    margin-top: 32px;
+    border: 1px solid;
+    position: absolute;
+    border-radius: 13px;
+    display: none;
+    border-color:#F9E795;
+    margin-right: 50px;
+}
+.pooja-drop1{
+      /* border: 1px solid; */
+      float: left;
+      height: auto;
+      width: 49%;
+}
+.pooja-drop1 ul{
+    list-style: none;
+    height: auto;
+    width: auto;
+}
+.pooja-drop1 ul li{
+    /* background-color: whitesmoke; */
+    width: 100%;
+    padding-top: 10px;
+    margin-top: 30px;
+    height: auto;
+    margin-right: 80px;
+}
+.header2 ul li:hover > .pooja-drop{
+    display: block;
+    background-color:#66b3ff;
+}
+.remedies-drop{
+    height: 350px;
+    width: 500px;
+    margin-top: 32px;
+    border: 1px solid;
+    position: absolute;
+    border-radius: 13px;
+    display: none;
+    border-color: blue;
+    margin-right: 50px;
+}
+.remedies-drop1{
+      /* border: 1px solid; */
+      float: left;
+      height: auto;
+      width: 49%;
+}
+.remedies-drop1 ul{
+    list-style: none;
+    height: auto;
+    width: auto;
+}
+.remedies-drop1 ul li{
+    /* background-color: whitesmoke; */
+    width: 100%;
+    padding-top: 10px;
+    margin-top: 30px;
+    height: auto;
+    margin-right: 80px;
+    font-size: small;
+}
+.header2 ul li:hover > .remedies-drop{
+    display: block;
+    background-color:#66b3ff;
+}
+.tool-drop{
+    border: 1px solid;
+    height: 350px;
+    width: 500px;
+    margin-top: 32px;
+    position: absolute;
+    border-radius: 13px;
+    display: none;
+    border-color: blue;
+    margin-right: 50px;
+}
+.tool-drop1{
+    width: 10px;
+}
+.tool-drop1 ul{
+    list-style: none;
+    height: 100px;
+    width: auto;
+}
+.tool-drop1 ul li{
+    /* border: 1px solid; */
+    /* padding-right:70px; */
+    width: 100%;
+    margin-bottom: 40px;
+}
+.header2 ul li:hover > .tool-drop{
+    display: block;
+    background-color:#66b3ff;
+}
+.header3{
+    border: 1px solid;
+    height: 500px;
+    width: 100%;
+    margin-top: 5px;
+}
+.header3 img{
+    height: 499px;
+    width: 49.5%;
+}
+.header4{
+    margin-top: 15px;
+    border: 1px solid;
+    height: 400px;
+    width: 100%;
+}
+.header4 img{
+    width: 100%;
+    height: 399px;
+}
+.last{
+    /* border: 1px solid; */
+    width: 100%;
+    float: left;
+    height: 618px;
+    background-color:  #66b3ff;
+    /* padding-top: 10px; */
+}
+.last-1{
+    /* border: 1px solid; */
+    width: 19.4%;
+    float: left;
+    height: 618px;
+}
+.last-1 ul{
+    list-style: none;
+    padding: 20px;
+    color: white;
+}
+.last-1 ul li{
+    padding: 13px;
+}   
+.last-1 ul li:hover{
+    text-decoration: underline;
+}
+.last-1 img{
+    padding: 5px;
+    width: 15%;
+    /* margin-top: 105px; */
+}
+
